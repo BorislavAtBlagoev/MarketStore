@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\MarketStore\MarketStore\bin\Debug\netcoreapp2.1\MarketStore.deps.json
+C:\Users\Acer\source\repos\MarketStore\MarketStore\bin\Debug\netcoreapp2.1\MarketStore.runtimeconfig.json
+C:\Users\Acer\source\repos\MarketStore\MarketStore\bin\Debug\netcoreapp2.1\MarketStore.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\MarketStore\MarketStore\bin\Debug\netcoreapp2.1\MarketStore.dll
+C:\Users\Acer\source\repos\MarketStore\MarketStore\bin\Debug\netcoreapp2.1\MarketStore.pdb
+C:\Users\Acer\source\repos\MarketStore\MarketStore\obj\Debug\netcoreapp2.1\MarketStore.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MarketStore\MarketStore\obj\Debug\netcoreapp2.1\MarketStore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MarketStore\MarketStore\obj\Debug\netcoreapp2.1\MarketStore.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MarketStore\MarketStore\obj\Debug\netcoreapp2.1\MarketStore.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MarketStore\MarketStore\obj\Debug\netcoreapp2.1\MarketStore.dll
+C:\Users\Acer\source\repos\MarketStore\MarketStore\obj\Debug\netcoreapp2.1\MarketStore.pdb
